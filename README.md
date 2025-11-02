@@ -1,2 +1,13 @@
-# global-control-center
-全球账号注册与控制系统：自动化注册、内容发布、IP切换、验证码处理、状态追踪。
+# Global Control Center
+
+这是 BunnyEra 的全球账号控制系统，包含以下模块：
+
+- 多平台注册脚本（TikTok、Telegram、Discord 等）
+- VPN切换与国家节点调度
+- 虚拟手机号验证码处理
+- 邮箱验证（ProtonMail）
+- 内容发布与作品管理
+- GitHub Actions 自动化执行
+- 状态记录与日志追踪
+
+## 仓库结构建议
